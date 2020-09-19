@@ -14,7 +14,7 @@ class MusicApplicationTests {
 
     @Test
     void contextLoads() {
-
+        System.out.println("这里修改了");
     }
     @Test
     public void test(){
